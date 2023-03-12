@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="static/style.css">
+
+        <title>Sentimental Analysis</title>
+    </head>
+
+    <body>
+        <header>
+            <div class = header_bar>
+                <label class = 'logo'>Hashhs</label>
+            </div>
+        </header>
+
+        <div class = content_wrapper>
+            <form action = "output.html" class = "form_control">
+                <div class= text>
+                    <p>Insert your text</p>
+                    <textarea name = 'text' class = 'form_control' rows = "11" placeholder="Eg. Today is a sunny day..." required></textarea>
+                </div>
+
+                <div class = button_container>
+                    <button type = "submit", name = "generate_analysis", class = generate_button>Generate Analysis</button>
+                </div>
+                
+            </form>
+        </div>
+    </body>
+</html>

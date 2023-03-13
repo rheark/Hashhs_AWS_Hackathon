@@ -1,10 +1,10 @@
 # Hashhs_AWS_Hackathon
 
 # Contributors
-- Celine @Cttan178
-- Rhea @rheark
-- Teresa @Teresa-Hung
-- Jia Hui @bjiah
+- [@Cttan178](@https://github.com/Cttan178)
+- [@rheark](https://github.com/rheark)
+- [@Teresa-Hung](https://github.com/Teresa-Hung)
+- [@bjiah](https://github.com/bjiah)
 
 # Resources
 The Hashhs team designed a machine learning model using the sentiment twitter kaggle dataset. We also used AWS Comprehend to train Depression Recognizer Model

@@ -1,7 +1,7 @@
 # Hashhs_AWS_Hackathon
 
 # Contributors
-- [@Cttan178](@https://github.com/Cttan178)
+- [@Cttan178](https://github.com/Cttan178)
 - [@rheark](https://github.com/rheark)
 - [@Teresa-Hung](https://github.com/Teresa-Hung)
 - [@bjiah](https://github.com/bjiah)
